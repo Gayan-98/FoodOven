@@ -36,10 +36,10 @@ FOODOVEN is an online recipe management system that allows users to manage their
 
  Clone the repository:
 
-    ```bash
+  
     git clone https://github.com/your-username/foodoven.git
     cd foodoven
-    ```
+  
 
 ![FOODOVEN Screenshot](images/foodoven-screenshot.png)
 
