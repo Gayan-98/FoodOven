@@ -37,8 +37,8 @@ FOODOVEN is an online recipe management system that allows users to manage their
  Clone the repository:
 
   
-    git clone https://github.com/your-username/foodoven.git
-    cd foodoven
+    git clone https://github.com/Gayan-98/FoodOven.git
+    cd FoodOven
   
 
 ![FOODOVEN Screenshot](images/foodoven-screenshot.png)
