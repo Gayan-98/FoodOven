@@ -41,4 +41,5 @@ FOODOVEN is an online recipe management system that allows users to manage their
     cd foodoven
     ```
 
+![FOODOVEN Screenshot](images/foodoven-screenshot.png)
 
